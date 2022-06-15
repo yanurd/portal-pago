@@ -1,0 +1,3 @@
+input.pagoMovil:checked ~ .pagoMovil {
+  display: block!important;
+}
